@@ -37,7 +37,7 @@ const About = () => {
     </motion.div>
     <motion.p variants={fadeIn("", "", 0.1, 1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      I'm  as skilled SRE who's looking for a career home.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a diam neque. Phasellus id metus quis arcu consectetur hendrerit. Morbi molestie leo id lacus malesuada euismod. Fusce ut maximus urna. Vestibulum nec elementum odio. Mauris venenatis, eros ac blandit pharetra, dui sapien porta nisl, eget mattis turpis neque sed orci. Sed at accumsan purus, ut viverra magna. Sed ex nulla, tristique vitae bibendum id, bibendum id nisl. In convallis sagittis felis ut luctus. Nullam condimentum purus quam. Donec eu viverra ipsum, at tristique elit. Cras sed nunc maximus, finibus sapien fermentum, pretium orci. Duis ac ornare arcu, vitae laoreet massa. Quisque ex dui, pulvinar nec elementum in, lobortis vitae turpis.
+      Throughout my career as a Site Reliability Engineer (SRE), I have specialized in innovative cloud infrastructure solutions and developer productivity enhancement. As a highly talented troubleshooter and team coordinator with extensive experience in driving effective solutions at IBM, I have earned praise for delivering outstanding results with my diverse skills. I form strong relationships with various stakeholders to improve processes and drive optimal outcomes
 
 
     </motion.p>

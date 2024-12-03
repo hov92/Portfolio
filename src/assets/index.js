@@ -25,11 +25,14 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import smokingbullwindowpage from './smokingbullwindowpage.png'
-import smokinglogo from './smokinglogo.png';
+import smokingbullwindowpage from "./smokingbullwindowpage.png";
+import smokinglogo from "./smokinglogo.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import python from "./python.png";
+import linux from "./linux.png";
+import me from './me.jpeg'
 
 export {
   logo,
@@ -43,11 +46,13 @@ export {
   css,
   docker,
   figma,
+  linux,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
+  python,
   reactjs,
   redux,
   tailwind,
@@ -60,6 +65,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  me,
   smokingbullwindowpage,
-  smokinglogo
+  smokinglogo,
 };
