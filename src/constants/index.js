@@ -22,6 +22,7 @@ import {
     shopify,
     smokingbullwindowpage,
     carrent,
+    buckwindow,
     jobit,
     tripguide,
     threejs,
@@ -229,25 +230,25 @@ import {
       source_code_link: "https://smokingbullcigar.com/",
     },
     {
-      name: "Job IT",
+      name: "Unql Buck",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Online Ecommerce outlet store where can users can sell everything to everyone.",
       tags: [
         {
-          name: "react",
+          name: "Bluehost",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Wordpress",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "WooCommerce",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: buckwindow,
+      source_code_link: "https://unqlbuck.com/",
     },
     {
       name: "Trip Guide",

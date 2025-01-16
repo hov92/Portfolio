@@ -22,6 +22,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
+import buckwindow from "./buckwindow.png";
+import UnqlLogo from "./UnqlLogo.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
@@ -66,6 +68,8 @@ export {
   jobit,
   tripguide,
   me,
+  buckwindow,
+  UnqlLogo,
   smokingbullwindowpage,
   smokinglogo,
 };
