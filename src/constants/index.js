@@ -21,8 +21,10 @@ import {
     tesla,
     shopify,
     smokingbullwindowpage,
+    smokinglogo,
     carrent,
     buckwindow,
+    UnqlLogo,
     jobit,
     tripguide,
     threejs,
@@ -228,6 +230,7 @@ import {
       ],
       image: smokingbullwindowpage,
       source_code_link: "https://smokingbullcigar.com/",
+      logo: smokinglogo
     },
     {
       name: "Unql Buck",
@@ -249,6 +252,7 @@ import {
       ],
       image: buckwindow,
       source_code_link: "https://unqlbuck.com/",
+      logo: UnqlLogo
     },
     {
       name: "Trip Guide",
@@ -270,6 +274,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/",
+      logo: UnqlLogo
     },
   ];
   
