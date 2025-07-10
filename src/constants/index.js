@@ -218,8 +218,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://legacylawncares.com",
-      logo: LogoLawn
-    },
+      logo: LogoLawn },
   ];
   
   export { services, technologies, projects };
