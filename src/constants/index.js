@@ -216,7 +216,7 @@ import {
           color: "red-text-gradient",
         },
       ],
-      image: tripguide,
+      image: LogoLawn,
       source_code_link: "https://legacylawncares.com",
       logo: LogoLawn },
   ];
