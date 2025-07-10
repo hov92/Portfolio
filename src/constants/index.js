@@ -16,6 +16,7 @@ import {
     python,
     figma,
     docker,
+    newbucklogo,
     meta,
     starbucks,
     tesla,
@@ -190,7 +191,7 @@ import {
           color: "red-text-gradient",
         },
       ],
-      image: buckwindow,
+      image: newbucklogo,
       source_code_link: "https://unqlbuck.com/",
       logo: UnqlLogo
     },
