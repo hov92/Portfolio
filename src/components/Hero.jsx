@@ -21,7 +21,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white`}>
             {" "}
-            I am a Site Reliability Engineer & Web designer
+            I'm An Inspiring Web Designer
           </p>
         </div>
       </div>

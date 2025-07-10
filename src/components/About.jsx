@@ -37,7 +37,7 @@ const About = () => {
     </motion.div>
     <motion.p variants={fadeIn("", "", 0.1, 1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      Throughout my career as a Site Reliability Engineer (SRE), I have specialized in innovative cloud infrastructure solutions and developer productivity enhancement. As a highly talented troubleshooter and team coordinator with extensive experience in driving effective solutions at IBM, I have earned praise for delivering outstanding results with my diverse skills. I form strong relationships with various stakeholders to improve processes and drive optimal outcomes
+      I’m a creative and business-minded web developer specializing in building modern, scalable websites for e-commerce, service-based businesses, and community-driven platforms. With a strong focus on WordPress, WooCommerce, and Elementor, I design user-friendly interfaces, integrate powerful tools like JetEngine and Amelia, and create seamless multi-vendor marketplaces. I’m passionate about helping entrepreneurs and small businesses grow online through custom solutions, smart automations, and a clean, mobile-first design approach.
 
 
     </motion.p>
