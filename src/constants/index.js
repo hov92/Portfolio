@@ -31,7 +31,8 @@ import {
     threejs,
     linux,
     logo,
-    LogoLawn, 
+    LogoLawn,
+    rengoku, 
   } from "../assets";
   
   export const navLinks = [
@@ -220,6 +221,31 @@ import {
       image: LogoLawn,
       source_code_link: "https://legacylawncares.com",
       logo: LogoLawn },
+    {
+      name: "Ashley OMB Arts",
+      description:
+        "Hand painted art of your favorited anime characters and more. All from Va local artsist Ashley OMB",
+      tags: [
+        {
+          name: "Anime",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Wordpress",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Portfolios",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "LocalBusiness",
+          color: "red-text-gradient",
+        },
+      ],
+      image: rengoku,
+      source_code_link: "https://ashleyombarts.com",
+      logo: rengoku },
   ];
   
   export { services, technologies, projects };

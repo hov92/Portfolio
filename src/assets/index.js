@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import LogoLawn from "./LogoLawn.png"
 import newbucklogo from "./newbucklogo.png"
+import rengoku from "./rengoku.png"
 
 import meta from "./company/meta.png";
 import buckwindow from "./buckwindow.png";
@@ -75,5 +76,6 @@ export {
   smokingbullwindowpage,
   smokinglogo,
   LogoLawn,
-  newbucklogo
+  newbucklogo,
+  rengoku
 };
