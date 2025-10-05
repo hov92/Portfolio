@@ -35,20 +35,20 @@ import {
     rengoku, 
   } from "../assets";
   
-  export const navLinks = [
-    {
-      id: "about",
-      title: "About",
-    },
-    {
-      id: "work",
-      title: "Work",
-    },
-    {
-      id: "contact",
-      title: "Contact",
-    },
-  ];
+  // export const navLinks = [
+  //   {
+  //     id: "about",
+  //     title: "About",
+  //   },
+  //   {
+  //     id: "work",
+  //     title: "Work",
+  //   },
+  //   {
+  //     id: "contact",
+  //     title: "Contact",
+  //   },
+  // ];
   
   const services = [
     {
@@ -62,10 +62,6 @@ import {
     {
       title: "Backend Developer",
       icon: backend,
-    },
-    {
-      title: "Content Creator",
-      icon: creator,
     },
   ];
   
