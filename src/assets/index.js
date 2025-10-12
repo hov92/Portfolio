@@ -37,7 +37,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import python from "./python.png";
 import linux from "./linux.png";
-import me from './me.jpeg'
+import reytechlogo from './reytechlogo.jpeg'
 
 export {
   logo,
@@ -70,7 +70,7 @@ export {
   carrent,
   jobit,
   tripguide,
-  me,
+  reytechlogo,
   buckwindow,
   UnqlLogo,
   smokingbullwindowpage,
