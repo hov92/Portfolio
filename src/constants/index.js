@@ -32,7 +32,8 @@ import {
     linux,
     logo,
     LogoLawn,
-    rengoku, 
+    rengoku,
+    edLogo 
   } from "../assets";
   
   // export const navLinks = [
@@ -242,6 +243,36 @@ import {
       image: rengoku,
       source_code_link: "https://ashleyombarts.com",
       logo: rengoku },
+      {
+      name: "Everythingdid",
+      description:
+        "Your glow, your tribe, your whole beauty world — in one place",
+      tags: [
+        {
+          name: "WordPress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "WooCommerce",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Booking",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "WCFM",
+          color: "red-text-gradient",
+        },
+         {
+          name: "BuddyBoss",
+          color: "yellow-text-gradient",
+        },
+      ],
+      image: edLogo,
+      source_code_link: "https://everythingdid.com",
+      logo: edLogo
+    }
   ];
   
   export { services, technologies, projects };
