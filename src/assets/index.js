@@ -77,5 +77,6 @@ export {
   smokinglogo,
   LogoLawn,
   newbucklogo,
-  rengoku
+  rengoku,
+  edLogo
 };
